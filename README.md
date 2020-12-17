@@ -1,6 +1,9 @@
 # project
 
+这个项目是我们做的有关于电影的项目
+
 ## Project setup
+
 ```
 npm install
 ```
